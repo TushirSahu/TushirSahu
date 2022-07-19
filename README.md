@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/96677478/179723058-be20341c-b622-4c7a-a411-edbfb00d8bd2.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Tushir Sahu</h1>
 <h3 align="center">A Machine Learning Enthusiast 👨‍💻</h3>
