@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tushir Sahu</h1>
 <h3 align="center">A Machine Learning Enthusiast 👨‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/agif74glu73y87u2o6tz.png">
+<img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/agif74glu73y87u2o6tz.png" width="20%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carnage2202&label=Profile%20views&color=0e75b6&style=flat" alt="carnage2202" /> </p>
 
 - 🌱 I’m currently learning **Data Science and Machine learning**
