@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Data Science and Machine learning**
 
+-🥅 2022 Goals: Deep Learning (Neural Networks,Tensorflow,Keras,Pytorch)
+
 - 📫 How to reach me **tushirsahu30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
