@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tushir Sahu</h1>
-<h3 align="center">A Machine Learning Enthusiast 👨‍💻</h3>
+<h3 align="center">A Deep Learning Enthusiast 💻</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/96677478/208479679-fa53377f-1a96-4d0d-918d-f9997f399c34.svg" width="20%" height="80%">
 
 
@@ -20,12 +20,22 @@
 <a href="https://www.leetcode.com/tushirsahu30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushirsahu30" height="30" width="40" /></a>
 </p> -->
 
-## 💫 About Me:
-🔭 I’m currently working on GANs.<br>🤝 I’m looking for help with NLP and deployment.<br>🌱 I’m currently learning Diffusion models.<br>💬 Ask me about Deep learning,Machine learning,CV and GANs.
+## 👨‍💻 About Me:
+🔭 I’m currently working on GANs.
+<br>
+🤝 I’m looking for help with NLP and deployment.<br>
+🌱 I’m currently learning Diffusion models.<br>💬 Ask me about Deep learning,Machine learning,CV and GANs.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tushir__sahu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushirsahu) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushir-sahu-b95549205/)
+[![codeforces](https://img.shields.io/badge/codeforces-EC0E18?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tushirsahu30)
+
+[![leetcode](https://img.shields.io/badge/leetcode-000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/tushirsahu30/)
+[![kaggle](https://img.shields.io/badge/kaggle-1586E5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tushirsahu)
+[![instagram](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tushir__sahu)
+
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
