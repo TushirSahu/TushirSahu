@@ -22,9 +22,9 @@
 
 ## 👨‍💻 About Me:
 🔭 I’m currently working on GANs.
-<br>
-🤝 I’m looking for help with NLP and deployment.<br>
-🌱 I’m currently learning Diffusion models.<br>💬 Ask me about Deep learning,Machine learning,CV and GANs.
+<br><br>
+🤝 I’m looking for help with NLP and deployment.<br><br>
+🌱 I’m currently learning Diffusion models.<br><br>💬 Ask me about Deep learning,Machine learning,CV and GANs.
 
 
 ## 🌐 Socials:
