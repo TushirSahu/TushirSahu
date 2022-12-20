@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tushir Sahu</h1>
 <h3 align="center">A Deep Learning Enthusiast 💻</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/96677478/208479679-fa53377f-1a96-4d0d-918d-f9997f399c34.svg" width="20%" height="80%">
+<img align="right" alt="Coding" width="260" height="300"src="https://user-images.githubusercontent.com/96677478/208479679-fa53377f-1a96-4d0d-918d-f9997f399c34.svg" >
 
 
 <!-- - 🌱 I’m currently learning **Data Science and Machine learning**
