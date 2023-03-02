@@ -7,7 +7,7 @@
 
 <!-- - 🌱 I’m currently learning **Data Science and Machine learning**
 
-*  🥅 2022 Goals: **Deep Learning (Neural Networks,Tensorflow,Keras,Pytorch)**
+*  🥅 2023 Goals: ** Research Paper Publication **
 
 - 📫 How to reach me **tushirsahu30@gmail.com**
 
@@ -21,9 +21,9 @@
 </p> -->
 
 ## 👨‍💻 About Me:
-🔭 I’m currently working on GANs.
+🔭 I’m currently working on Computer Vision.
 <br><br>
-🤝 I’m looking for help with NLP and deployment.<br><br>
+🤝 I’m looking for help with Research Papers.<br><br>
 🌱 I’m currently learning Transfer Learning models.<br><br>💬 Ask me about Deep learning,Machine learning,CV and GANs.
 
 
