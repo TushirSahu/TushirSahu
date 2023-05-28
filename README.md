@@ -16,13 +16,8 @@
 <a href="https://instagram.com/tushir__sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushir_sahu" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tushirsahu30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tushirsahu30" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tushirsahu30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushirsahu30" height="30" width="40" /></a>
-</p> -->
+</p> 
 
-## 👨‍💻 About Me:
-🔭 I’m currently working on Computer Vision.
-<br><br>
-🤝 I’m looking for help with Research Papers.<br><br>
-🌱 I’m currently learning Transfer Learning models.<br><br>💬 Ask me about Deep learning,Machine learning,CV and GANs.
 
 
 ## 🌐 Socials:
