@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="260" height="300"src="https://user-images.githubusercontent.com/96677478/208479679-fa53377f-1a96-4d0d-918d-f9997f399c34.svg" >
 
 ![](https://komarev.com/ghpvc/?username=aryan1113&color=ac154f)
-- 🌱 Currently Exploring: Transformers and Attention networks
+- 🌱 Currently Exploring: Transformers, DeepSORT, 3D Modelling and Attention networks
 - 💻 Proficient in : Computer Vison,Machine Learning and Image Processing
 - 📫 How to reach me **tushirsahu30@gmail.com**
 
