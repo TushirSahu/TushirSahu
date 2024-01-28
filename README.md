@@ -7,8 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=aryan1113&color=ac154f)
 - 🌱 Currently Exploring: Transformers, DeepSORT, 3D Modelling and Attention networks
 - 💻 Proficient in : Computer Vison,Machine Learning and Image Processing
-- 📫 How to reach me **tushirsahu30@gmail.com**
-- More about me: https://tushirsahu.vercel.app/
+- 📫 How to reach me **https://tushir.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
