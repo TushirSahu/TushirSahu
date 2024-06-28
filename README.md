@@ -10,18 +10,11 @@
 - 📫 How to reach me: tushirsahu22@gmail.com
 - ![Personal Website](https://tushir.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/Tushir Sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushir sahu" height="30" width="40" /></a>
-<a href="https://kaggle.com/tushirsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tushir sahu" height="30" width="40" /></a>
-<a href="https://instagram.com/tushir__sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushir_sahu" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tushirsahu30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tushirsahu30" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tushirsahu30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushirsahu30" height="30" width="40" /></a>
-</p> 
 
 
 
-## 🌐 Socials:
+
+## 🌐 Connect with me::
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushir-sahu-b95549205/)
 [![codeforces](https://img.shields.io/badge/codeforces-EC0E18?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tushirsahu30)
 
