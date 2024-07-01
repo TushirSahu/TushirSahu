@@ -11,7 +11,7 @@
 - 🌱 Currently Exploring: Transformers, DeepSORT, 3D Modelling and Attention networks
 - 💻 Proficient in : Computer Vison,Machine Learning and Image Processing
 - 📫 How to reach me: tushirsahu22@gmail.com
-- ![Personal Website](https://tushir.vercel.app/)
+- More About me: https://tushir.vercel.app/
 
 
 
