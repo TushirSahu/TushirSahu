@@ -8,8 +8,8 @@
 <p><img align="right" src="https://github.com/TushirSahu/TushirSahu/assets/96677478/3b49fc91-f113-4121-a466-429ca3973d62" alt="tushir" height = 220" /></p>
 
 ![](https://komarev.com/ghpvc/?username=aryan1113&color=ac154f)
-- 🌱 Currently Exploring: Transformers, DeepSORT, 3D Modelling and Attention networks
-- 💻 Proficient in : Computer Vison,Machine Learning and Image Processing
+- 🌱 Currently Exploring: Domain Adaptation,Medical Imaging and Attention Networks
+- 💻 Proficient in : Computer Vison, Machine Learning and Image Processing
 - 📫 How to reach me: tushirsahu22@gmail.com
 - More About me: https://tushir.vercel.app/
 
