@@ -11,7 +11,7 @@
 - 🌱 Currently Exploring: Domain Adaptation,Medical Imaging and Attention Networks
 - 💻 Proficient in : Computer Vison, Machine Learning and Image Processing
 - 📫 How to reach me: tushirsahu22@gmail.com
-- More About me: https://tushir.vercel.app/
+- <!-- More About me: https://tushir.vercel.app/-->
 
 
 
