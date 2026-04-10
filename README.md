@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 **Currently Working on:** Pairwise Training, Self-Suprevised Learning, Relative-Pseudo Labelling
+- 🌱 **Currently Working on:** Pairwise Training, Self-Supervised and Unsupervised Learning, Relative-Pseudo Labelling
 - 💡 **Proficient in:** Computer Vision, Machine Learning, Image Processing, LLMs and Generative AI.
 - 🎓 **Focus:** Building robust AI systems, from Self-Supervised Learning to Agentic LLM workflows.
 - 📫 **How to reach me:** [tushir.sahu@is.ids.osaka-u.ac.jp](mailto:ttushir.sahu@is.ids.osaka-u.ac.jp)
