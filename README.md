@@ -14,7 +14,7 @@
 - 🌱 **Currently Exploring:** Domain Adaptation, Medical Imaging, and Attention Networks.
 - 💡 **Proficient in:** Computer Vision, Machine Learning, Image Processing, and Generative AI.
 - 🎓 **Focus:** Building robust AI systems, from Self-Supervised Learning to Agentic LLM workflows.
-- 📫 **How to reach me:** [tushirsahu22@gmail.com](mailto:tushirsahu22@gmail.com)
+- 📫 **How to reach me:** [tushir.sahu@is.ids.osaka-u.ac.jp](mailto:ttushir.sahu@is.ids.osaka-u.ac.jp)
 
 <br/>
 
