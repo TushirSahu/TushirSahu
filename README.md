@@ -46,8 +46,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TushirSahu&show_icons=true&theme=tokyonight&hide_border=true" alt="Tushir's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TushirSahu&theme=tokyonight&hide_border=true" alt="Tushir's GitHub Streak" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=TushirSahu&show_icons=true&theme=nightowl&hide_border=true" alt="Tushir's GitHub Stats" height="195" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TushirSahu&theme=nightowl&hide_border=true" alt="Tushir's GitHub Streak" height="195" />
 </div>
 
 <br/>
