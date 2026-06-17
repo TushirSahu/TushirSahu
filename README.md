@@ -32,9 +32,8 @@
 
 | Project | What it does |
 |---|---|
-| **ReDOR-T** | Ordinal ranking via pairwise dominance — no absolute labels, severity head calibrated by tie-anchored DP segmentation |
-| **Deep Clustering + SSL** | Dominance-guided ordinal deep clustering (RnC) + SSL boosters to break representation overlap |
-| **Hungarian Eval** | Budget-sweep (30/50/70%) matching as the headline ordinal evaluation metric |
+| **Yet to be named** | Ordinal ranking via pairwise supervison — no absolute labels, severity head calibrated by classification head |
+| **Deep Clustering + SSL** | Break representation overlap |
 
 ---
 
