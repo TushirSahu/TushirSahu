@@ -1,30 +1,44 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=AC154F&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Tushir+Sahu;Computer+Vision+Researcher;AI+%2F+ML+Engineer;Self-Supervised+Learning+%F0%9F%94%AC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=AC154F&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Tushir+Sahu;Computer+Vision+Researcher;Ordinal+%26+Self-Supervised+Learning;WACV+2027+%E2%80%94+DOSE+%F0%9F%8E%89" alt="Hi, I'm Tushir Sahu — Computer Vision Researcher" /></a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=TushirSahu&color=ac154f&style=flat-square" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/badge/M1_Student_and_Researcher-Osaka_University-6c63ff?style=flat-square" alt="PhD Researcher" />
+<img src="https://img.shields.io/badge/M1_Researcher-Osaka_University-6c63ff?style=flat-square" alt="M1 Student and Researcher, Osaka University" />
 &nbsp;
-<!-- <img src="https://img.shields.io/badge/Target-WACV_2026-00b894?style=flat-square" alt="WACV" /> -->
+<a href="https://tushirsahu.github.io/DOSE/"><img src="https://img.shields.io/badge/WACV_2027-DOSE-AC154F?style=flat-square" alt="DOSE accepted at WACV 2027" /></a>
 
 </div>
 
 ---
 
-<img align="right" src="https://github.com/TushirSahu/TushirSahu/assets/96677478/3b49fc91-f113-4121-a466-429ca3973d62" alt="tushir" width="240" />
+<img align="right" src="https://github.com/TushirSahu/TushirSahu/assets/96677478/3b49fc91-f113-4121-a466-429ca3973d62" alt="Tushir Sahu" width="240" />
 
 ### 👨‍🔬 About Me
 
-- 🔭 **Researching:** Ordinal learning with zero absolute labels — pairwise training, relative pseudo-labeling, and self-supervised representation learning
+- 🔭 **Researching:** Learning ordinal severity with few or no absolute labels — pairwise training, relative pseudo-labeling, semi-supervised ranking, and self-supervised representations
 - 🎓 **Affiliation:** Institute for Datability Science, Osaka University
-- 💡 **Expertise:** Computer Vision · Self-Supervised Learning · LLMs · Agentic AI
-- 🤝 **Open to:** Research collaborations and internships
+- 💡 **Expertise:** Computer Vision · Self-Supervised Learning · Medical Imaging · LLMs & Agentic AI
+- 📄 **Latest:** First-author paper **DOSE** accepted at **WACV 2027** (Orlando, Jan 2027) — [project page](https://tushirsahu.github.io/DOSE/)
+- 🤝 **Open to:** Research collaborations, internships, and new-grad roles (Mar 2028)
 - 📫 **Reach me at:** [tushir.sahu@is.ids.osaka-u.ac.jp](mailto:tushir.sahu@is.ids.osaka-u.ac.jp)
 
 <br clear="right"/>
+
+---
+
+### 📄 Publications
+
+| Year | Venue | Paper |
+|---|---|---|
+| 2027 | **WACV** (IEEE/CVF) | [DOSE: Dominance-Guided Ordinal Severity Estimation from Sparse Relative Annotations](https://tushirsahu.github.io/DOSE/) |
+| 2024 | **CNIOT**, Tokyo 🏆 | [Location-based portable 5G-enabled IoT edge device to measure, monitor and manage environment sensor data](https://dl.acm.org/doi/pdf/10.1145/3670105.3670178) |
+| 2024 | **ISES** | [SPEEDNet: Salient Pyramidal Enhancement Encoder-Decoder Network for Colonoscopy Images](https://www.researchgate.net/publication/384559975_SPEEDNet_Salient_Pyramidal_Enhancement_Encoder-Decoder_Network_for_Colonoscopy_Images) |
+| 2024 | **APSCON** | [ConstructNet: A Deep Learning Object Detector for Construction Site Surveillance](https://ieeexplore.ieee.org/document/10465871) |
+
+<sub>🏆 Best Oral Presentation, CNIOT 2024 · Full list and preprints on my <a href="https://tushirml.vercel.app/#publications">site</a>.</sub>
 
 ---
 
@@ -32,8 +46,9 @@
 
 | Project | What it does |
 |---|---|
-| **Yet to be named** | Ordinal ranking via pairwise supervison — no absolute labels, severity head calibrated by classification head |
-| **Deep Clustering + SSL** | Break representation overlap |
+| **[DOSE](https://tushirsahu.github.io/DOSE/)** <sub>WACV&nbsp;2027</sub> | Ordinal severity estimation from sparse relative annotations — pairwise supervision, no absolute labels, severity head calibrated by a classification head |
+| **Semi-supervised severity ranking** <sub>ongoing</sub> | Recovering a full disease-severity ordering in endoscopy when only the extreme grades are labeled |
+| **Deep Clustering + SSL** <sub>ongoing</sub> | Clustering objectives that break class overlap in self-supervised representations |
 
 ---
 
@@ -71,14 +86,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TushirSahu&theme=nightowl&hide_border=true" height="180" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TushirSahu&layout=compact&theme=nightowl&hide_border=true&langs_count=6" height="180" />
+  <img src="https://streak-stats.demolab.com?user=TushirSahu&theme=nightowl&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
-
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TushirSahu&theme=nord&column=6&no-frame=true&margin-w=8" />
-</div> -->
 
 ---
 
@@ -86,16 +95,11 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-AC154F?style=for-the-badge&logo=vercel&logoColor=white)](https://tushirml.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushir-sahu-b95549205/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-EC0E18?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tushirsahu30)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/tushirsahu30/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-1586E5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tushirsahu)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tushir__sahu)
 
-</div>
-
----
-
-<div align="center">
-  <i>Open to research collaborations, internships, and interesting ML problems.</i>
 </div>
